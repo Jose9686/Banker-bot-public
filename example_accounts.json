@@ -1,0 +1,6 @@
+[
+  {"name": "Card A", "balance": 2400.00, "apr": 0.2999, "min_payment": 75.00},
+  {"name": "Card B", "balance": 300.00, "apr": 0.2199, "min_payment": 25.00},
+  {"name": "Personal loan", "balance": 9000.00, "apr": 0.1450, "min_payment": 250.00},
+  {"name": "Car loan", "balance": 12000.00, "apr": 0.0690, "min_payment": 320.00}
+]
